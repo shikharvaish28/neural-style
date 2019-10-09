@@ -54,4 +54,4 @@ Optional dependencies:
 
 ## Author:
 
-[Shikhar Vaish](https://www.linkedin.com/in/shikharvaish28/)
+[Shikhar Vaish](http://shikhar.engineer)
